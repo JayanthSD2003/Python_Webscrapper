@@ -1,2 +1,4 @@
 # Python_Webscrapper
-This script scraps the key data from the url's you pass through it in csv format.
+These scripts are data Scrapping tools
+1. This scraps data from a CSV file
+2. And this one scraps data from a pile of links with the help of chrome driver. (this is basically testing).
